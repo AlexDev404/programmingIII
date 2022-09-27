@@ -1,9 +1,12 @@
 #include <iostream>
 using namespace std;
 
+// Prototypes
 void greeting();
 int sumNumbers(int num1, int num2);
 double getAreaOfSquare(double side);
+int getLastDigit(int age);
+double getAreaOfRect(double length, double width);
 
 int main()
 {
@@ -12,10 +15,10 @@ int main()
     greeting();
     // B
     cout << "B\n";
-    cout << sumNumbers(); << endl;
+    cout << sumNumbers() << endl;
     // C
     cout << "C\n";
-    cout << getAreaOfSquare(2, 2) << endl;
+    cout << getAreaOfSquare(2) << endl;
     // D
     cout << "D\n";
     cout << getLastDigit(14) << endl;
@@ -42,7 +45,7 @@ void greeting()
  * @brief Adds two integers (from user input)
  * @return void
  */
-int sumNumbers(int num1, int num2)
+int sumNumbers(int num1 = false, int num2 = false)
 {
     // Checks if this function was called with arguments
     if (num1 && num2)
@@ -50,11 +53,11 @@ int sumNumbers(int num1, int num2)
         return num1 + num2;
     }
 
-// Otherwise we do this 
+    // Otherwise we do this
     int userinput = 0;
     int result = 0;
 
-    for (int i = 0; i < 2; i++ &&userinput = userinput + result;)
+    for (int i = 0; i < 2; i++, userinput = userinput + result)
     {
         cout << "Enter 2 Integers: ";
         cin >> userinput;
@@ -98,6 +101,5 @@ double getAreaOfRect(double length, double width)
     // Calcalate and return area of rect
     return length * width;
 }
-
 
 // Question "F" was merged into question "A"
