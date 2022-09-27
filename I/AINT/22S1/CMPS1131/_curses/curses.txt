@@ -1,0 +1,25 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <ncursesw/ncurses.h>
+#include <ncursesw/curses.h>
+#include <wctype.h>
+#include <wchar.h>
+#include <locale.h>
+
+int main(){
+setlocale(LC_CTYPE, "");
+
+initscr();
+cbreak();
+
+WINDOW *win = newwin(0, 0, 0, 0);
+refresh();
+wrefresh(win);
+
+const char *star = L"0x2605";
+mvaddstr(3, 3, star);
+
+getch();
+endwin();
+return 0;
+}
