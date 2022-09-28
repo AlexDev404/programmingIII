@@ -3,7 +3,9 @@ using namespace std;
 
 // Prototypes
 void greeting();
-int sumNumbers(int num1, int num2);
+// Checks if this function was called with arguments
+int sumNumbers();
+int sumNumbers1(int num1, int num2);
 double getAreaOfSquare(double side);
 int getLastDigit(int age);
 double getAreaOfRect(double length, double width);
@@ -11,26 +13,20 @@ double getAreaOfRect(double length, double width);
 int main()
 {
     // A
-    cout << "A\n";
     greeting();
     // B
-    cout << "B\n";
-    cout << sumNumbers() << endl;
+    cout << "sumNumbers(): " << sumNumbers() << endl;
     // C
-    cout << "C\n";
-    cout << getAreaOfSquare(2) << endl;
+    cout << "getAreaOfSquare(2): " << getAreaOfSquare(2) << endl;
     // D
-    cout << "D\n";
-    cout << getLastDigit(14) << endl;
+    cout << "getLastDigit(14): " << getLastDigit(14) << endl;
     // E
-    cout << "E\n";
-    cout << getAreaOfRect(2, 2) << endl;
+    cout << "getAreaOfRect(2, 2): " << getAreaOfRect(2, 2) << endl;
     // F
-    cout << "F\n";
-    cout << sumNumbers(2, 2) << endl;
+    cout << "sumNumbers1(2, 2): " << sumNumbers1(2, 2) << endl;
 }
 
-// Av+ F
+// A
 /**
  * @brief Prints out a string to the console
  * @return void
@@ -45,14 +41,8 @@ void greeting()
  * @brief Adds two integers (from user input)
  * @return void
  */
-int sumNumbers(int num1 = false, int num2 = false)
+int sumNumbers()
 {
-    // Checks if this function was called with arguments
-    if (num1 && num2)
-    {
-        return num1 + num2;
-    }
-
     // Otherwise we do this
     int userinput = 0;
     int result = 0;
@@ -102,4 +92,7 @@ double getAreaOfRect(double length, double width)
     return length * width;
 }
 
-// Question "F" was merged into question "A"
+// F
+int sumNumbers1(int num1, int num2){
+   return num1 + num2;
+}
