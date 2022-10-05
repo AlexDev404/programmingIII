@@ -41,7 +41,7 @@ int sumOfDigits(int number)
             // We grab the first character
             int j = stoi(numberString.substr(0, 1));
             // [DEBUG] Output to console
-            cout << j << endl;
+            // cout << j << endl;
             // Add to result
             result = result + j;
         }
@@ -60,7 +60,7 @@ int sumOfDigits(int number)
             int j = stoi(str_);
 
             // [DEBUG] Output to console
-            cout << j << endl;
+            // cout << j << endl;
             // Add to result
             result = result + j;
         }
