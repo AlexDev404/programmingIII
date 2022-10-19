@@ -1,12 +1,15 @@
 #include <string>
 using namespace std;
 
-Car::Car(numWheels, color, plateNumber){
-    this->numberWheels = numWheels;
-    this->color = color;
-    this->plateNumber = plateNumber;
-}
+class Car
+{
+public:
+    // Prototypes
+    Car(int numWheels, string color, string plateNumber); // Constructor does not need a type
+    void Print();
 
-Car::Print(){
-    
-}
+private:
+    int numWheels;
+    string color;
+    string plateNumber;
+};

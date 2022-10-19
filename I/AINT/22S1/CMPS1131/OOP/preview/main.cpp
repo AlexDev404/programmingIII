@@ -33,7 +33,7 @@ public:
 
 int main()
 {
-  // Creating objects
+  // Creating objects using classes
   // Syntax: class objName
   book book0;
   book0.pages = 200;
