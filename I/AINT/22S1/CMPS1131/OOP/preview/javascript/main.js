@@ -1,7 +1,7 @@
 // Yet another object
 let library = {};
 
-// Raw Objects
+// Raw Objects - Can't be done in C++
 let book0 = {
   // properties
   pages: 100, // value
@@ -22,12 +22,16 @@ class book {
   pages;
   color;
   title;
-  pageSize;
+  pageSize = "Letter";
 }
 
 // Class **with** constructors
 class newBook {
   // properties
+  pages;
+  color;
+  title;
+  pageSize;
   constructor(pages, color, title, pageSize = "Letter") {
     this.pages = pages; // value
     this.color = color;
