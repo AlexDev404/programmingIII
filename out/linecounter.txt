@@ -1,0 +1,402 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2022-10-29 20:21:55
+count workspace : e:\Data\PROGRAMMING\C_C++\task_1
+total files : 169
+total code lines : 10638
+total comment lines : 506
+total blank lines : 414
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |            475|              0|             36|    4.5|
+   |            .md|              2|              0|              0|  0.019|
+   |           .txt|             51|              0|              9|   0.48|
+   |           .pro|            173|              0|             35|    1.6|
+   |           .cpp|           1127|            410|            273|     11|
+   |          .user|           7341|              0|              0|     69|
+   |        .NNmuOu|            337|              0|              0|    3.2|
+   |        .fDNSlz|            337|              0|              0|    3.2|
+   |           .qbs|             24|             10|              7|   0.23|
+   |             .c|              0|             23|              2|    0.0|
+   |           .hpp|             48|             36|              8|   0.45|
+   |            .MD|             15|              0|              7|   0.14|
+   |          .json|            598|              0|              1|    5.6|
+   |            .js|             35|             20|             10|   0.33|
+   |      .astylerc|             57|              0|             24|   0.54|
+   |             .h|             18|              7|              2|   0.17|
+   -------------------------------------------------------------------------
+I\AINT\22S1\CMPS1131\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\_curses\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\_curses\curses.txt, code is 20, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\apple2 (product)\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple2 (product)\apple2.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\apple2 (product)\apple2.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple2 (product)\main.cpp, code is 14, comment is 2, blank is 6.
+I\AINT\22S1\CMPS1131\apple\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple\apple.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\apple\apple.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple\main.cpp, code is 14, comment is 5, blank is 3.
+I\AINT\22S1\CMPS1131\booboo\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\booboo\main.cpp, code is 17, comment is 12, blank is 5.
+I\AINT\22S1\CMPS1131\Calculator\.gitignore, code is 64, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\Calculator\Calculator.pro, code is 18, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\Calculator\main.cpp, code is 38, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\changeFromStore\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\changeFromStore\changeFromStore.pro, code is 18, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\changeFromStore\changeFromStore.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\changeFromStore\main.cpp, code is 18, comment is 14, blank is 12.
+I\AINT\22S1\CMPS1131\conditionals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\conditionals\conditionals.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\conditionals\conditionals.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\conditionals\main.cpp, code is 12, comment is 3, blank is 3.
+I\AINT\22S1\CMPS1131\continue\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\continue\continue.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\continue\continue.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\continue\main.cpp, code is 17, comment is 6, blank is 7.
+I\AINT\22S1\CMPS1131\countdown\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\countdown\countdown.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\countdown\countdown.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\countdown\main.cpp, code is 19, comment is 5, blank is 5.
+I\AINT\22S1\CMPS1131\crack\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\crack\crack.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\crack\crack.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\crack\main.cpp, code is 13, comment is 5, blank is 5.
+I\AINT\22S1\CMPS1131\default.astylerc, code is 3, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\default2.astylerc, code is 54, comment is 0, blank is 24.
+I\AINT\22S1\CMPS1131\doubleconditionals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\doubleconditionals\doubleconditionals.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\doubleconditionals\doubleconditionals.pro.user, code is 342, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\doubleconditionals\main.cpp, code is 15, comment is 9, blank is 6.
+I\AINT\22S1\CMPS1131\dump\.gitignore, code is 64, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\dump\dump.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\dump\main.cpp, code is 30, comment is 2, blank is 4.
+I\AINT\22S1\CMPS1131\forever_loop\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\forever_loop\forever_loop.pro, code is 7, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\forever_loop\forever_loop.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\forever_loop\main.cpp, code is 15, comment is 1, blank is 2.
+I\AINT\22S1\CMPS1131\functions\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\functions\functions.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\functions\functions.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\functions\main.cpp, code is 12, comment is 10, blank is 5.
+I\AINT\22S1\CMPS1131\fundamentals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\fundamentals\CMakeLists.txt.user, code is 86, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\fundamentals\fundamentals.qbs, code is 10, comment is 1, blank is 2.
+I\AINT\22S1\CMPS1131\fundamentals\fundamentals.qbs.user, code is 268, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\fundamentals\main.cpp, code is 22, comment is 27, blank is 20.
+I\AINT\22S1\CMPS1131\gasMileage\.gitignore, code is 72, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\gasMileage\gasMileage.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\gasMileage\main.cpp, code is 41, comment is 18, blank is 15.
+I\AINT\22S1\CMPS1131\incremental\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\incremental\incremental.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\incremental\incremental.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\incremental\main.cpp, code is 13, comment is 5, blank is 3.
+I\AINT\22S1\CMPS1131\integerconditionals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\integerconditionals\integerconditionals.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\integerconditionals\integerconditionals.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\integerconditionals\main.cpp, code is 20, comment is 11, blank is 6.
+I\AINT\22S1\CMPS1131\loops\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\loops\loops.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\loops\loops.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\loops\main.cpp, code is 17, comment is 32, blank is 9.
+I\AINT\22S1\CMPS1131\messenger\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\messenger\main.cpp, code is 14, comment is 2, blank is 4.
+I\AINT\22S1\CMPS1131\messenger\messenger.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\messenger\messenger.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\current\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\current\Car\Car.hpp, code is 12, comment is 2, blank is 2.
+I\AINT\22S1\CMPS1131\OOP\current\Car\Car__spec.hpp, code is 12, comment is 2, blank is 1.
+I\AINT\22S1\CMPS1131\OOP\current\main.cpp, code is 10, comment is 4, blank is 3.
+I\AINT\22S1\CMPS1131\OOP\current\shape\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\current\shape\main.cpp, code is 12, comment is 3, blank is 1.
+I\AINT\22S1\CMPS1131\OOP\current\shape\main2.cpp, code is 43, comment is 8, blank is 4.
+I\AINT\22S1\CMPS1131\OOP\current\shape\Shape\Shape.cpp, code is 31, comment is 6, blank is 2.
+I\AINT\22S1\CMPS1131\OOP\current\shape\Shape\Shape.hpp, code is 13, comment is 27, blank is 3.
+I\AINT\22S1\CMPS1131\OOP\placeholder, code is 0, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\.gitignore, code is 1, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\main.js, code is 35, comment is 20, blank is 10.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\package-lock.json, code is 582, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\package.json, code is 16, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\main.cpp, code is 38, comment is 9, blank is 6.
+I\AINT\22S1\CMPS1131\OOP\preview\main2.cpp, code is 39, comment is 17, blank is 9.
+I\AINT\22S1\CMPS1131\point\.gitignore, code is 64, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\point\driver.cpp, code is 12, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\point\point.cpp, code is 24, comment is 0, blank is 6.
+I\AINT\22S1\CMPS1131\point\point.h, code is 18, comment is 7, blank is 2.
+I\AINT\22S1\CMPS1131\point\point.pro, code is 9, comment is 0, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\placeholder, code is 0, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\10\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\10\main.cpp, code is 32, comment is 15, blank is 8.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\11\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\11\main.cpp, code is 37, comment is 27, blank is 8.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\11\main2.cpp, code is 21, comment is 0, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\12\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\12\main.cpp, code is 17, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\1\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\1\main.cpp, code is 16, comment is 1, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\2\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\2\main.cpp, code is 46, comment is 4, blank is 11.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\2\main2.cpp, code is 31, comment is 9, blank is 5.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\3\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\3\main.cpp, code is 21, comment is 20, blank is 5.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\4\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\4\main.cpp, code is 16, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\5\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\5\main.cpp, code is 13, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\6\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\6\main.cpp, code is 18, comment is 0, blank is 4.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\7\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\7\main.cpp, code is 23, comment is 13, blank is 7.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\8\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\8\main.cpp, code is 19, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\9\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\9\main.cpp, code is 21, comment is 4, blank is 6.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\payroll.cpp, code is 38, comment is 4, blank is 6.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\payroll.exe, it is a binary file.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\Payroll\Payroll.cpp, code is 8, comment is 0, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\Payroll\Payroll.hpp, code is 11, comment is 5, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\square.cpp, code is 29, comment is 25, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\square.exe, it is a binary file.
+I\AINT\22S1\CMPS1131\Problem Sets\templates\boilerplate.cpp, code is 5, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\Problem Sets\templates\journal.c, code is 0, comment is 23, blank is 2.
+I\AINT\22S1\CMPS1131\product\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\product\main.cpp, code is 16, comment is 12, blank is 7.
+I\AINT\22S1\CMPS1131\product\product.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\product\product.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\project1\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\project1\project1\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\project1\project1\main.cpp, code is 7, comment is 7, blank is 5.
+I\AINT\22S1\CMPS1131\project1\project1\project1.pro, code is 12, comment is 0, blank is 4.
+I\AINT\22S1\CMPS1131\project1\project1\project1.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\recursion.txt, code is 31, comment is 0, blank is 4.
+I\AINT\22S1\CMPS1131\start\main.cpp, code is 43, comment is 1, blank is 1.
+I\AINT\22S1\CMPS1131\start\start.qbs, code is 14, comment is 9, blank is 5.
+I\AINT\22S1\CMPS1131\start\start.qbs.user, code is 267, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task\main.cpp, code is 11, comment is 6, blank is 4.
+I\AINT\22S1\CMPS1131\task\task.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\task\task.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task\task.pro.user.fDNSlz, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\functions.cpp, code is 5, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\task_1b\INSTRUCTIONS.MD, code is 15, comment is 0, blank is 7.
+I\AINT\22S1\CMPS1131\task_1b\main.cpp, code is 49, comment is 45, blank is 9.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.pro, code is 7, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.pro.user.NNmuOu, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\while_loops\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\while_loops\main.cpp, code is 15, comment is 1, blank is 2.
+I\AINT\22S1\CMPS1131\while_loops\while_loops.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\while_loops\while_loops.pro.user, code is 337, comment is 0, blank is 0.
+II\placeholder, code is 0, comment is 0, blank is 0.
+README.md, code is 2, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2022-10-29 20:22:14
+count workspace : e:\Data\PROGRAMMING\C_C++\task_1
+total files : 169
+total code lines : 10638
+total comment lines : 506
+total blank lines : 414
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |            475|              0|             36|    4.5|
+   |           .txt|             51|              0|              9|   0.48|
+   |            .md|              2|              0|              0|  0.019|
+   |           .pro|            173|              0|             35|    1.6|
+   |           .cpp|           1127|            410|            273|     11|
+   |          .user|           7341|              0|              0|     69|
+   |        .NNmuOu|            337|              0|              0|    3.2|
+   |            .MD|             15|              0|              7|   0.14|
+   |        .fDNSlz|            337|              0|              0|    3.2|
+   |           .qbs|             24|             10|              7|   0.23|
+   |             .c|              0|             23|              2|    0.0|
+   |           .hpp|             48|             36|              8|   0.45|
+   |             .h|             18|              7|              2|   0.17|
+   |          .json|            598|              0|              1|    5.6|
+   |            .js|             35|             20|             10|   0.33|
+   |      .astylerc|             57|              0|             24|   0.54|
+   -------------------------------------------------------------------------
+I\AINT\22S1\CMPS1131\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\_curses\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\_curses\curses.txt, code is 20, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\apple2 (product)\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple2 (product)\apple2.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\apple2 (product)\apple2.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple2 (product)\main.cpp, code is 14, comment is 2, blank is 6.
+I\AINT\22S1\CMPS1131\apple\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple\apple.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\apple\apple.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\apple\main.cpp, code is 14, comment is 5, blank is 3.
+I\AINT\22S1\CMPS1131\booboo\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\booboo\main.cpp, code is 17, comment is 12, blank is 5.
+I\AINT\22S1\CMPS1131\Calculator\.gitignore, code is 64, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\Calculator\Calculator.pro, code is 18, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\Calculator\main.cpp, code is 38, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\changeFromStore\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\changeFromStore\changeFromStore.pro, code is 18, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\changeFromStore\changeFromStore.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\changeFromStore\main.cpp, code is 18, comment is 14, blank is 12.
+I\AINT\22S1\CMPS1131\conditionals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\conditionals\conditionals.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\conditionals\conditionals.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\conditionals\main.cpp, code is 12, comment is 3, blank is 3.
+I\AINT\22S1\CMPS1131\continue\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\continue\continue.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\continue\continue.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\continue\main.cpp, code is 17, comment is 6, blank is 7.
+I\AINT\22S1\CMPS1131\countdown\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\countdown\countdown.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\countdown\countdown.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\countdown\main.cpp, code is 19, comment is 5, blank is 5.
+I\AINT\22S1\CMPS1131\crack\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\crack\crack.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\crack\crack.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\crack\main.cpp, code is 13, comment is 5, blank is 5.
+I\AINT\22S1\CMPS1131\default.astylerc, code is 3, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\default2.astylerc, code is 54, comment is 0, blank is 24.
+I\AINT\22S1\CMPS1131\doubleconditionals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\doubleconditionals\doubleconditionals.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\doubleconditionals\doubleconditionals.pro.user, code is 342, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\doubleconditionals\main.cpp, code is 15, comment is 9, blank is 6.
+I\AINT\22S1\CMPS1131\dump\.gitignore, code is 64, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\dump\dump.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\dump\main.cpp, code is 30, comment is 2, blank is 4.
+I\AINT\22S1\CMPS1131\forever_loop\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\forever_loop\forever_loop.pro, code is 7, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\forever_loop\forever_loop.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\forever_loop\main.cpp, code is 15, comment is 1, blank is 2.
+I\AINT\22S1\CMPS1131\functions\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\functions\functions.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\functions\functions.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\functions\main.cpp, code is 12, comment is 10, blank is 5.
+I\AINT\22S1\CMPS1131\fundamentals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\fundamentals\CMakeLists.txt.user, code is 86, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\fundamentals\fundamentals.qbs, code is 10, comment is 1, blank is 2.
+I\AINT\22S1\CMPS1131\fundamentals\fundamentals.qbs.user, code is 268, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\fundamentals\main.cpp, code is 22, comment is 27, blank is 20.
+I\AINT\22S1\CMPS1131\gasMileage\.gitignore, code is 72, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\gasMileage\gasMileage.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\gasMileage\main.cpp, code is 41, comment is 18, blank is 15.
+I\AINT\22S1\CMPS1131\incremental\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\incremental\incremental.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\incremental\incremental.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\incremental\main.cpp, code is 13, comment is 5, blank is 3.
+I\AINT\22S1\CMPS1131\integerconditionals\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\integerconditionals\integerconditionals.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\integerconditionals\integerconditionals.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\integerconditionals\main.cpp, code is 20, comment is 11, blank is 6.
+I\AINT\22S1\CMPS1131\loops\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\loops\loops.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\loops\loops.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\loops\main.cpp, code is 17, comment is 32, blank is 9.
+I\AINT\22S1\CMPS1131\messenger\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\messenger\main.cpp, code is 14, comment is 2, blank is 4.
+I\AINT\22S1\CMPS1131\messenger\messenger.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\messenger\messenger.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\current\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\current\Car\Car.hpp, code is 12, comment is 2, blank is 2.
+I\AINT\22S1\CMPS1131\OOP\current\Car\Car__spec.hpp, code is 12, comment is 2, blank is 1.
+I\AINT\22S1\CMPS1131\OOP\current\main.cpp, code is 10, comment is 4, blank is 3.
+I\AINT\22S1\CMPS1131\OOP\current\shape\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\current\shape\main.cpp, code is 12, comment is 3, blank is 1.
+I\AINT\22S1\CMPS1131\OOP\current\shape\main2.cpp, code is 43, comment is 8, blank is 4.
+I\AINT\22S1\CMPS1131\OOP\current\shape\Shape\Shape.cpp, code is 31, comment is 6, blank is 2.
+I\AINT\22S1\CMPS1131\OOP\current\shape\Shape\Shape.hpp, code is 13, comment is 27, blank is 3.
+I\AINT\22S1\CMPS1131\OOP\placeholder, code is 0, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\.gitignore, code is 1, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\main.js, code is 35, comment is 20, blank is 10.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\package-lock.json, code is 582, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\OOP\preview\javascript\package.json, code is 16, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\OOP\preview\main.cpp, code is 38, comment is 9, blank is 6.
+I\AINT\22S1\CMPS1131\OOP\preview\main2.cpp, code is 39, comment is 17, blank is 9.
+I\AINT\22S1\CMPS1131\point\.gitignore, code is 64, comment is 0, blank is 9.
+I\AINT\22S1\CMPS1131\point\driver.cpp, code is 12, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\point\point.cpp, code is 24, comment is 0, blank is 6.
+I\AINT\22S1\CMPS1131\point\point.h, code is 18, comment is 7, blank is 2.
+I\AINT\22S1\CMPS1131\point\point.pro, code is 9, comment is 0, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\placeholder, code is 0, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\10\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\10\main.cpp, code is 32, comment is 15, blank is 8.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\11\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\11\main.cpp, code is 37, comment is 27, blank is 8.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\11\main2.cpp, code is 21, comment is 0, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\12\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\12\main.cpp, code is 17, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\1\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\1\main.cpp, code is 16, comment is 1, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\2\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\2\main.cpp, code is 46, comment is 4, blank is 11.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\2\main2.cpp, code is 31, comment is 9, blank is 5.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\3\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\3\main.cpp, code is 21, comment is 20, blank is 5.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\4\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\4\main.cpp, code is 16, comment is 0, blank is 5.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\5\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\5\main.cpp, code is 13, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\6\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\6\main.cpp, code is 18, comment is 0, blank is 4.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\7\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\7\main.cpp, code is 23, comment is 13, blank is 7.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\8\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\8\main.cpp, code is 19, comment is 0, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\9\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\Problem Sets\ps3\9\main.cpp, code is 21, comment is 4, blank is 6.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\payroll.cpp, code is 38, comment is 4, blank is 6.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\payroll.exe, it is a binary file.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\Payroll\Payroll.cpp, code is 8, comment is 0, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\Payroll\Payroll.hpp, code is 11, comment is 5, blank is 2.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\square.cpp, code is 29, comment is 25, blank is 3.
+I\AINT\22S1\CMPS1131\Problem Sets\ps4\square.exe, it is a binary file.
+I\AINT\22S1\CMPS1131\Problem Sets\templates\boilerplate.cpp, code is 5, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\Problem Sets\templates\journal.c, code is 0, comment is 23, blank is 2.
+I\AINT\22S1\CMPS1131\product\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\product\main.cpp, code is 16, comment is 12, blank is 7.
+I\AINT\22S1\CMPS1131\product\product.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\product\product.pro.user, code is 332, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\project1\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\project1\project1\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\project1\project1\main.cpp, code is 7, comment is 7, blank is 5.
+I\AINT\22S1\CMPS1131\project1\project1\project1.pro, code is 12, comment is 0, blank is 4.
+I\AINT\22S1\CMPS1131\project1\project1\project1.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\recursion.txt, code is 31, comment is 0, blank is 4.
+I\AINT\22S1\CMPS1131\start\main.cpp, code is 43, comment is 1, blank is 1.
+I\AINT\22S1\CMPS1131\start\start.qbs, code is 14, comment is 9, blank is 5.
+I\AINT\22S1\CMPS1131\start\start.qbs.user, code is 267, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task\main.cpp, code is 11, comment is 6, blank is 4.
+I\AINT\22S1\CMPS1131\task\task.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\task\task.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task\task.pro.user.fDNSlz, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\functions.cpp, code is 5, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\task_1b\INSTRUCTIONS.MD, code is 15, comment is 0, blank is 7.
+I\AINT\22S1\CMPS1131\task_1b\main.cpp, code is 49, comment is 45, blank is 9.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.pro, code is 7, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.pro.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.pro.user.NNmuOu, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\task_1b\task_1b.user, code is 337, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\while_loops\.gitignore, code is 5, comment is 0, blank is 0.
+I\AINT\22S1\CMPS1131\while_loops\main.cpp, code is 15, comment is 1, blank is 2.
+I\AINT\22S1\CMPS1131\while_loops\while_loops.pro, code is 6, comment is 0, blank is 1.
+I\AINT\22S1\CMPS1131\while_loops\while_loops.pro.user, code is 337, comment is 0, blank is 0.
+II\placeholder, code is 0, comment is 0, blank is 0.
+README.md, code is 2, comment is 0, blank is 0.
+===============================================================================
