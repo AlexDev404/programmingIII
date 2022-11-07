@@ -10,24 +10,25 @@
   * @param value
   * @return Subtracts five from the argument and returns the result
   * 
-  * @fn incrementalValueOpt
-  * @param value
-  * @param inc
-  * @return Adds the specified value to the argument and returns the result
-  * 
-  * @fn decrementalValueOpt
-  * @param value
-  * @param inc
-  * @return Subtracts the specified value from the argument and returns the result
-  * 
   * @fn multipleValue
   * @param value
   * @return Multiplies five to the argument and returns the result
   * 
   * @fn divValue
   * @param value
-  * @return Divides five to the argument and returns the result
+  * @return Divides five from the argument and returns the result
+  * 
+  * @details Usage
+  * @brief Generalized code to conduct an mathematical operation on the specified integer
+  * 
+  * valueOps value(int value);
+  * int x = value.fn();
+  * cout << x;
+  * 
 */
+
+// Unfinished.
+
 #include <iostream>
 #include "Value\Value.cpp"
 using namespace std;
