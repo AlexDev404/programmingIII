@@ -1,0 +1,2223 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "e:\\Data\\PROGRAMMING\\C_C++\\task_1",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2022-10-29 20:21:55",
+            "filesum": 169,
+            "codesum": 10638,
+            "commentsum": 506,
+            "blanksum": 414,
+            "statistics": {
+                "": {
+                    "code": 475,
+                    "comment": 0,
+                    "blank": 36
+                },
+                ".md": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 51,
+                    "comment": 0,
+                    "blank": 9
+                },
+                ".pro": {
+                    "code": 173,
+                    "comment": 0,
+                    "blank": 35
+                },
+                ".cpp": {
+                    "code": 1127,
+                    "comment": 410,
+                    "blank": 273
+                },
+                ".user": {
+                    "code": 7341,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".NNmuOu": {
+                    "code": 337,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".fDNSlz": {
+                    "code": 337,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".qbs": {
+                    "code": 24,
+                    "comment": 10,
+                    "blank": 7
+                },
+                ".c": {
+                    "code": 0,
+                    "comment": 23,
+                    "blank": 2
+                },
+                ".hpp": {
+                    "code": 48,
+                    "comment": 36,
+                    "blank": 8
+                },
+                ".MD": {
+                    "code": 15,
+                    "comment": 0,
+                    "blank": 7
+                },
+                ".json": {
+                    "code": 598,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".js": {
+                    "code": 35,
+                    "comment": 20,
+                    "blank": 10
+                },
+                ".astylerc": {
+                    "code": 57,
+                    "comment": 0,
+                    "blank": 24
+                },
+                ".h": {
+                    "code": 18,
+                    "comment": 7,
+                    "blank": 2
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\_curses\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\_curses\\curses.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\apple2.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\apple2.pro.user"
+                },
+                {
+                    "blank": 6,
+                    "code": 14,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\apple.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\apple.pro.user"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\booboo\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 12,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\booboo\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Calculator\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Calculator\\Calculator.pro"
+                },
+                {
+                    "blank": 3,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Calculator\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\changeFromStore.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\changeFromStore.pro.user"
+                },
+                {
+                    "blank": 12,
+                    "code": 18,
+                    "comment": 14,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\conditionals.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\conditionals.pro.user"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\continue.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\continue.pro.user"
+                },
+                {
+                    "blank": 7,
+                    "code": 17,
+                    "comment": 6,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\countdown.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\countdown.pro.user"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\crack.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\crack.pro.user"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\default.astylerc"
+                },
+                {
+                    "blank": 24,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\default2.astylerc"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\doubleconditionals.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 342,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\doubleconditionals.pro.user"
+                },
+                {
+                    "blank": 6,
+                    "code": 15,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\dump\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\dump\\dump.pro"
+                },
+                {
+                    "blank": 4,
+                    "code": 30,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\dump\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\forever_loop.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\forever_loop.pro.user"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\functions.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\functions.pro.user"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 10,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 86,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\CMakeLists.txt.user"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\fundamentals.qbs"
+                },
+                {
+                    "blank": 0,
+                    "code": 268,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\fundamentals.qbs.user"
+                },
+                {
+                    "blank": 20,
+                    "code": 22,
+                    "comment": 27,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\gasMileage\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\gasMileage\\gasMileage.pro"
+                },
+                {
+                    "blank": 15,
+                    "code": 41,
+                    "comment": 18,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\gasMileage\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\incremental.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\incremental.pro.user"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\integerconditionals.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\integerconditionals.pro.user"
+                },
+                {
+                    "blank": 6,
+                    "code": 20,
+                    "comment": 11,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\loops.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\loops.pro.user"
+                },
+                {
+                    "blank": 9,
+                    "code": 17,
+                    "comment": 32,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\.gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\messenger.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\messenger.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\.gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\Car\\Car.hpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\Car\\Car__spec.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\main.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 43,
+                    "comment": 8,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\main2.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 31,
+                    "comment": 6,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\Shape\\Shape.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 27,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\Shape\\Shape.hpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\placeholder"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\.gitignore"
+                },
+                {
+                    "blank": 10,
+                    "code": 35,
+                    "comment": 20,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\main.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 582,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\package.json"
+                },
+                {
+                    "blank": 6,
+                    "code": 38,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 39,
+                    "comment": 17,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\main2.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\driver.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\point.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 7,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\point.h"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\point.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\placeholder"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\10\\.gitignore"
+                },
+                {
+                    "blank": 8,
+                    "code": 32,
+                    "comment": 15,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\10\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\11\\.gitignore"
+                },
+                {
+                    "blank": 8,
+                    "code": 37,
+                    "comment": 27,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\11\\main.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\11\\main2.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\12\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\12\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\1\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\1\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\2\\.gitignore"
+                },
+                {
+                    "blank": 11,
+                    "code": 46,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\2\\main.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\2\\main2.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\3\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 21,
+                    "comment": 20,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\3\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\4\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\4\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\5\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\5\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\6\\.gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\6\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\7\\.gitignore"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 13,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\7\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\8\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\8\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\9\\.gitignore"
+                },
+                {
+                    "blank": 6,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\9\\main.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 38,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\payroll.cpp"
+                },
+                {
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\payroll.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\Payroll\\Payroll.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\Payroll\\Payroll.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 25,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\square.cpp"
+                },
+                {
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\square.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\templates\\boilerplate.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 0,
+                    "comment": 23,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\templates\\journal.c"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\.gitignore"
+                },
+                {
+                    "blank": 7,
+                    "code": 16,
+                    "comment": 12,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\product.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\product.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 7,
+                    "comment": 7,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\main.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\project1.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\project1.pro.user"
+                },
+                {
+                    "blank": 4,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\recursion.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 43,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\start\\main.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\start\\start.qbs"
+                },
+                {
+                    "blank": 0,
+                    "code": 267,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\start\\start.qbs.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\.gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\task.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\task.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\task.pro.user.fDNSlz"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\functions.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\INSTRUCTIONS.MD"
+                },
+                {
+                    "blank": 9,
+                    "code": 49,
+                    "comment": 45,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.pro.user.NNmuOu"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\.gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\while_loops.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\while_loops.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "II\\placeholder"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "README.md"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2022-10-29 20:22:14",
+            "filesum": 169,
+            "codesum": 10638,
+            "commentsum": 506,
+            "blanksum": 414,
+            "statistics": {
+                "": {
+                    "code": 475,
+                    "comment": 0,
+                    "blank": 36
+                },
+                ".txt": {
+                    "code": 51,
+                    "comment": 0,
+                    "blank": 9
+                },
+                ".md": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".pro": {
+                    "code": 173,
+                    "comment": 0,
+                    "blank": 35
+                },
+                ".cpp": {
+                    "code": 1127,
+                    "comment": 410,
+                    "blank": 273
+                },
+                ".user": {
+                    "code": 7341,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".NNmuOu": {
+                    "code": 337,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".MD": {
+                    "code": 15,
+                    "comment": 0,
+                    "blank": 7
+                },
+                ".fDNSlz": {
+                    "code": 337,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".qbs": {
+                    "code": 24,
+                    "comment": 10,
+                    "blank": 7
+                },
+                ".c": {
+                    "code": 0,
+                    "comment": 23,
+                    "blank": 2
+                },
+                ".hpp": {
+                    "code": 48,
+                    "comment": 36,
+                    "blank": 8
+                },
+                ".h": {
+                    "code": 18,
+                    "comment": 7,
+                    "blank": 2
+                },
+                ".json": {
+                    "code": 598,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".js": {
+                    "code": 35,
+                    "comment": 20,
+                    "blank": 10
+                },
+                ".astylerc": {
+                    "code": 57,
+                    "comment": 0,
+                    "blank": 24
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\_curses\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\_curses\\curses.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\apple2.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\apple2.pro.user"
+                },
+                {
+                    "blank": 6,
+                    "code": 14,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple2 (product)\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\apple.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\apple.pro.user"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\apple\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\booboo\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 17,
+                    "comment": 12,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\booboo\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Calculator\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Calculator\\Calculator.pro"
+                },
+                {
+                    "blank": 3,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Calculator\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\changeFromStore.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\changeFromStore.pro.user"
+                },
+                {
+                    "blank": 12,
+                    "code": 18,
+                    "comment": 14,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\changeFromStore\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\conditionals.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\conditionals.pro.user"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\conditionals\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\continue.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\continue.pro.user"
+                },
+                {
+                    "blank": 7,
+                    "code": 17,
+                    "comment": 6,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\continue\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\countdown.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\countdown.pro.user"
+                },
+                {
+                    "blank": 5,
+                    "code": 19,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\countdown\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\crack.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\crack.pro.user"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\crack\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\default.astylerc"
+                },
+                {
+                    "blank": 24,
+                    "code": 54,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\default2.astylerc"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\doubleconditionals.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 342,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\doubleconditionals.pro.user"
+                },
+                {
+                    "blank": 6,
+                    "code": 15,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\doubleconditionals\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\dump\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\dump\\dump.pro"
+                },
+                {
+                    "blank": 4,
+                    "code": 30,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\dump\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\forever_loop.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\forever_loop.pro.user"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\forever_loop\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\functions.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\functions.pro.user"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 10,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\functions\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 86,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\CMakeLists.txt.user"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\fundamentals.qbs"
+                },
+                {
+                    "blank": 0,
+                    "code": 268,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\fundamentals.qbs.user"
+                },
+                {
+                    "blank": 20,
+                    "code": 22,
+                    "comment": 27,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\fundamentals\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\gasMileage\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\gasMileage\\gasMileage.pro"
+                },
+                {
+                    "blank": 15,
+                    "code": 41,
+                    "comment": 18,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\gasMileage\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\incremental.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\incremental.pro.user"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\incremental\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\integerconditionals.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\integerconditionals.pro.user"
+                },
+                {
+                    "blank": 6,
+                    "code": 20,
+                    "comment": 11,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\integerconditionals\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\loops.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\loops.pro.user"
+                },
+                {
+                    "blank": 9,
+                    "code": 17,
+                    "comment": 32,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\loops\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\.gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\messenger.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\messenger\\messenger.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\.gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\Car\\Car.hpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\Car\\Car__spec.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\main.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 43,
+                    "comment": 8,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\main2.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 31,
+                    "comment": 6,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\Shape\\Shape.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 27,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\current\\shape\\Shape\\Shape.hpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\placeholder"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\.gitignore"
+                },
+                {
+                    "blank": 10,
+                    "code": 35,
+                    "comment": 20,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\main.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 582,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\javascript\\package.json"
+                },
+                {
+                    "blank": 6,
+                    "code": 38,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\main.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 39,
+                    "comment": 17,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\OOP\\preview\\main2.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 64,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\driver.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\point.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 7,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\point.h"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\point\\point.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\placeholder"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\10\\.gitignore"
+                },
+                {
+                    "blank": 8,
+                    "code": 32,
+                    "comment": 15,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\10\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\11\\.gitignore"
+                },
+                {
+                    "blank": 8,
+                    "code": 37,
+                    "comment": 27,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\11\\main.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\11\\main2.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\12\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\12\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\1\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\1\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\2\\.gitignore"
+                },
+                {
+                    "blank": 11,
+                    "code": 46,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\2\\main.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\2\\main2.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\3\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 21,
+                    "comment": 20,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\3\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\4\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\4\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\5\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\5\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\6\\.gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\6\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\7\\.gitignore"
+                },
+                {
+                    "blank": 7,
+                    "code": 23,
+                    "comment": 13,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\7\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\8\\.gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\8\\main.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\9\\.gitignore"
+                },
+                {
+                    "blank": 6,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps3\\9\\main.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 38,
+                    "comment": 4,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\payroll.cpp"
+                },
+                {
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\payroll.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\Payroll\\Payroll.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 5,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\Payroll\\Payroll.hpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 25,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\square.cpp"
+                },
+                {
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\ps4\\square.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\templates\\boilerplate.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 0,
+                    "comment": 23,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\Problem Sets\\templates\\journal.c"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\.gitignore"
+                },
+                {
+                    "blank": 7,
+                    "code": 16,
+                    "comment": 12,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\product.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 332,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\product\\product.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\.gitignore"
+                },
+                {
+                    "blank": 5,
+                    "code": 7,
+                    "comment": 7,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\main.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\project1.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\project1\\project1\\project1.pro.user"
+                },
+                {
+                    "blank": 4,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\recursion.txt"
+                },
+                {
+                    "blank": 1,
+                    "code": 43,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\start\\main.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 14,
+                    "comment": 9,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\start\\start.qbs"
+                },
+                {
+                    "blank": 0,
+                    "code": 267,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\start\\start.qbs.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\.gitignore"
+                },
+                {
+                    "blank": 4,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\task.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\task.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task\\task.pro.user.fDNSlz"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\.gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\functions.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\INSTRUCTIONS.MD"
+                },
+                {
+                    "blank": 9,
+                    "code": 49,
+                    "comment": 45,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.pro.user.NNmuOu"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\task_1b\\task_1b.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\.gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 1,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\main.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\while_loops.pro"
+                },
+                {
+                    "blank": 0,
+                    "code": 337,
+                    "comment": 0,
+                    "filename": "I\\AINT\\22S1\\CMPS1131\\while_loops\\while_loops.pro.user"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "II\\placeholder"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "README.md"
+                }
+            ]
+        }
+    ]
+}

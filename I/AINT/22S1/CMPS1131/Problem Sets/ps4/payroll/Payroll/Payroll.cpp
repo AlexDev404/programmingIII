@@ -27,7 +27,10 @@ Payroll::Payroll(int paycode, int nweeks, double pay)
         calc_pw();
         break;
     default:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 94243362c509e7aef2faf0c15123185878f2ce3b
         break;
     }
 };
@@ -35,7 +38,11 @@ Payroll::Payroll(int paycode, int nweeks, double pay)
 void Payroll::calc_mw()
 {
     // Output
+<<<<<<< HEAD
     cout << pay * nweeks;
+=======
+    cout << "Employee pay for " << nweeks << " weeks(s) is: " << "$" << pay * nweeks;
+>>>>>>> 94243362c509e7aef2faf0c15123185878f2ce3b
 }
 void Payroll::calc_hw()
 {
