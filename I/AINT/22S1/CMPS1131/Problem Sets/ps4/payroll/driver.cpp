@@ -41,7 +41,7 @@ void calculatePayroll()
     switch (paycode)
     {
 
-        // Managers
+    // Managers
     case 1:
     {
 
@@ -50,7 +50,7 @@ void calculatePayroll()
         Payroll manager(paycode, nweeks, salary);
     }
     break;
-        // Hourly workers
+    // Hourly workers
     case 2:
     {
         double hourlyWage = 0;
@@ -59,13 +59,13 @@ void calculatePayroll()
         Payroll hworker(paycode, nweeks, hourlyWage);
     }
     break;
-        // Commission workers
+    // Commission workers
     case 3:
     {
         Payroll cworker(paycode, nweeks);
     }
     break;
-        // Pieceworkers
+    // Pieceworkers
     case 4:
     {
         Payroll pworker(paycode, nweeks);
