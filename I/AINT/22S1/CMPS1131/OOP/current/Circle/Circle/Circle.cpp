@@ -3,7 +3,6 @@
 // logic
 #include <iostream>
 using namespace std;
-#include circle.h
 
 Circle::Circle(double radius){
    this->radius = radius;
@@ -25,7 +24,7 @@ void Circle::setRadius(double radius){
    this->radius = radius;
 }
 
-void Print(){
+void Circle::Print(){
    cout << "{Circle:radius=" << radius << "}";
 }
 // end of circle.cpp
