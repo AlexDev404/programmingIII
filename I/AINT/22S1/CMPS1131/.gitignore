@@ -1,5 +1,6 @@
 # Binaries
 # Keep output files untracked and off the radar
 # -----------------------------------------------
+build-*/
 *.dll
 *.exe
