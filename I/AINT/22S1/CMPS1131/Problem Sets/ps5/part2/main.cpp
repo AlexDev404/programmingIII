@@ -6,6 +6,7 @@ void convertFromSeconds(int s);
 
 int main()
 {
+    // Test data
     convertFromSeconds(86400);
     convertFromSeconds(100000);
     convertFromSeconds(610);
