@@ -16,8 +16,6 @@ int main()
 
 void convertFromSeconds(int s)
 {
-    86400;
-    s;
     int d = s / 60 / 60 / 24;
     int h = (s / 60 / 60) % 24; // seconds/60/60 gives hours in one day accurately
     int m = (s / 60) % 60;  // seconds/60 gives minutes in one day accurately
