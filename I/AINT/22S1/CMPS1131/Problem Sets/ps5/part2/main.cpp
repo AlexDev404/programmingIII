@@ -6,9 +6,10 @@ void convertFromSeconds(int s);
 
 int main()
 {
-    // convertFromSeconds(86400);
-    // convertFromSeconds(100000);
+    convertFromSeconds(86400);
+    convertFromSeconds(100000);
     convertFromSeconds(610);
+    convertFromSeconds(8000);
     return 0;
 }
 
