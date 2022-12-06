@@ -4,19 +4,19 @@ Programming I/II
 # Programming I Exam Outline 
 
 - ## OOP 
-  - [ ] Classes, 
-  - [ ] Objects, 
-  - [ ] Inheritance, 
+  - [x] Classes, 
+  - [x] Objects, 
+  - [ ] Inheritance, (Ignore)
   - [ ] Polymorphism, 
-  - [ ] Constructors, 
-  - [ ] Methods
+  - [x] Constructors, 
+  - [x] Methods
 - ## Basic Things
   - [ ] Arrays, 
-  - [ ] Looping, 
-  - [ ] Datatypes
-  - [ ] Global/Private variables 
+  - [x] Looping, 
+  - [x] Datatypes
+  - [x] Global/Private variables 
   - [x] Functions
 
 - ## Utility Knowledge
-- [ ] C++ Standard Library (I/O)
+- [x] C++ Standard Library (I/O)
 - [x] Concatenation and typecasting
